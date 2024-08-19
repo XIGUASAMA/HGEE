@@ -4,4 +4,4 @@ Attribution: Some portions of this code are based on the code of "Formation_Cons
 
 You can run consensus_APF_wij1.m to obtain the original data.
 
-You can run function 900to90.m to make the sequence shorter for easier network training
+You can run function900to90.m to make the sequence shorter for easier network training
